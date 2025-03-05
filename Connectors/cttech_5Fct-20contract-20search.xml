@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>e3b85304-5efb-4b77-a74c-d69d448ec3bd</connectorid>
+  <description></description>
+  <displayname>CT Contract Search</displayname>
+  <iconbrandcolor>#003D9C</iconbrandcolor>
+  <name>cttech_5Fct-20contract-20search</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/cttech_5Fct-20contract-20search_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/cttech_5Fct-20contract-20search_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/cttech_5Fct-20contract-20search_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/cttech_5Fct-20contract-20search_iconblob.Png</iconblob>
+</Connector>
